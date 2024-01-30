@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deep-dot.
+- 👋 Hi, I’m Dee Dhillon @deep-dot.
 - 👀 I’m interested in meeting developers here on github.
-- 🌱 I’m currently learning code for mobile app and website development.
-- 💞️ I’m looking to collaborate on MERN stack projects.
+- 🌱 I’m currently working @ Freelancer and studying in software development.
+- 💞️ I’m looking to collaborate on MERN stack projects and hands on experience in python.
 - 📫 Reach me out at deedhillon82@gmail.com
 
 <!---
